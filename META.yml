@@ -1,6 +1,6 @@
 ---
 name: PITA-Test-Dummy-Perl5-Build
-version: 1.00
+version: 1.01
 author:
   - Adam Kennedy <cpan@ali.as>
 abstract: ~
@@ -8,5 +8,5 @@ license: perl
 provides:
   PITA::Test::Dummy::Perl5::Build:
     file: lib/PITA/Test/Dummy/Perl5/Build.pm
-    version: 1.00
+    version: 1.01
 generated_by: Module::Build version 0.2611

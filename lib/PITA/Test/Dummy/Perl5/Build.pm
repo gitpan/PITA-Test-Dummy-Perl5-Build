@@ -5,7 +5,7 @@ use strict;
 
 use vars qw{$VERSION};
 BEGIN {
-	$VERSION = '1.00';
+	$VERSION = '1.01';
 }
 
 sub dummy { 'Brian' }
@@ -42,7 +42,7 @@ scheme.
 
 =head2 dummy
 
-Returns the dummy's name, in this case 'Build'
+Returns the dummy's name, in this case 'Brian'
 
 =head1 AUTHOR
 
@@ -50,7 +50,7 @@ Adam Kennedy, C<< <cpan at ali.as> >>
 
 =head1 SUPPORT
 
-No support is available for Build.
+No support is available for Brian.
 
 Sigh... no his head was NOT meant to come off like that.
 
