@@ -1,6 +1,6 @@
 ---
 name: PITA-Test-Dummy-Perl5-Build
-version: 1.03
+version: 1.04
 author:
   - 'Adam Kennedy <adamk@cpan.org>'
 abstract: 'Brian, the CPAN Test Dummy for PITA Build.PL installs'
@@ -10,7 +10,7 @@ resources:
 provides:
   PITA::Test::Dummy::Perl5::Build:
     file: lib/PITA/Test/Dummy/Perl5/Build.pm
-    version: 1.03
+    version: 1.04
 generated_by: Module::Build version 0.2808
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html

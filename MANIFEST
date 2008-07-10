@@ -1,4 +1,3 @@
-Build
 Build.PL
 Changes
 lib/PITA/Test/Dummy/Perl5/Build.pm
@@ -6,5 +5,7 @@ LICENSE
 MANIFEST			This list of files
 README
 t/01_compile.t
-t/99_author.t
+t/97_meta.t
+t/98_pod.t
+t/99_pmv.t
 META.yml
